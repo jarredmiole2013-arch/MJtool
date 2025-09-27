@@ -10,7 +10,7 @@ from rich.text import Text
 from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
-from mjtool import MJtool
+from mjtool import CPMAlex
 
 __CHANNEL_USERNAME__ = "MJ TOOl CHANNEL"
 __GROUP_USERNAME__   = "MJ TOOL DISCUSSION"
